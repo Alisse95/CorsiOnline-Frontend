@@ -9,6 +9,8 @@
 <script>
 import FormCorso from "@/components/FormCorso.vue";
 
+//cose a caso
+
 export default {
   components: { FormCorso },
   data() {
